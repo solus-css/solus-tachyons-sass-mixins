@@ -1,0 +1,8 @@
+@mixin input-reset {
+  appearance: none;
+}
+
+@mixin moz-inner-reset {
+  padding: 0;
+  border: 0;
+}
