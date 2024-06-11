@@ -3,5 +3,8 @@
 }
 
 @mixin list {
+    &:before {
+    content: "\200B"; /* add zero-width space */
+   }
 	@include list-style-type(none);
 }
