@@ -1,4 +1,4 @@
-# Tachyons-Haru Module Mixins
+# Solas-Tachyons Module Mixins
 
 Mixins which can be used to generate Tachyons v4.12.x modules. Some minor changes include the removal of some IE hacks, and more accessible handling of lists.
 
